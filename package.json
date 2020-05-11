@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hunter chang",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.15.28",
+    "gatsby-plugin-netlify-cms": "^4.3.1",
+    "gatsby-theme-document": "*",
+    "netlify-cms": "^2.10.48",
+    "netlify-cms-app": "^2.12.12",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
